@@ -32,6 +32,11 @@ flutter run
 - Dart
 - Shared Preferences
 
+## 📸 Screenshot Aplikasi
+
+Lihat di file [`screenshot.pdf`](./screenshot.pdf)
+
+
 ## 👨‍💻 Developer
 Aplikasi ini dibuat untuk memenuhi tugas Bootcamp Flutter.
 https://github.com/aimanullah78/note_app_flutter.git
