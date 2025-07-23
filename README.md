@@ -1,5 +1,3 @@
-# note_app_flutter
-Aplikasi catatan Flutter sebagai tugas bootcamp
 # Flutter Note App
 
 Aplikasi Flutter sederhana untuk mencatat aktivitas atau informasi harian. Dibuat sebagai bagian dari Bootcamp Flutter.
@@ -18,14 +16,6 @@ Aplikasi Flutter sederhana untuk mencatat aktivitas atau informasi harian. Dibua
 Lihat screenshot aplikasi di file `screenshot.pdf`.
 
 ## 🚀 Cara Menjalankan
-
-1. Clone repository ini:
-https://github.com/aimanullah78/note_app_flutter.git
-
-2. Masuk ke folder project:
-3. Jalankan aplikasi:
-## 🚀 Cara Menjalankan
-
 ```bash
 git clone https://github.com/aimanullah78/note_app_flutter.git
 cd note_app_flutter
