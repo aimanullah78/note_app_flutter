@@ -16,11 +16,15 @@ Aplikasi Flutter sederhana untuk mencatat aktivitas atau informasi harian. Dibua
 Lihat screenshot aplikasi di file `screenshot.pdf`.
 
 ## 🚀 Cara Menjalankan
-```bash
-git clone https://github.com/aimanullah78/note_app_flutter.git
-cd note_app_flutter
+
+1. Clone repository ini:
+https://github.com/aimanullah78/note_app_flutter.git
+
+2. Masuk ke folder project:
+3. Jalankan aplikasi:
 flutter pub get
 flutter run
+
 
 
 ## 🧱 Teknologi
