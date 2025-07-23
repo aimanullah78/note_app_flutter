@@ -24,6 +24,11 @@ https://github.com/aimanullah78/note_app_flutter.git
 
 2. Masuk ke folder project:
 3. Jalankan aplikasi:
+## 🚀 Cara Menjalankan
+
+```bash
+git clone https://github.com/aimanullah78/note_app_flutter.git
+cd note_app_flutter
 flutter pub get
 flutter run
 
